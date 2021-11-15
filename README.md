@@ -1,5 +1,5 @@
-TypeScript React Hello World Demo
-=================================
+TypeScript Vite React Demo
+===========================
 
 ```
 npm install
