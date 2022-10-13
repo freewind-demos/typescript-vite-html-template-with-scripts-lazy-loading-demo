@@ -1,9 +1,9 @@
-TypeScript Vite HTML Demo
+TypeScript Vite HTML "template" with <script> lazy loading Demo
 ===========================
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 It will open page on browser automatically.
